@@ -25,7 +25,10 @@ int main(){
 
     cout << binarySearch(arr1,tar1) << endl;
 
-    
+    vector <int> arr2 = {-1,0,3,5,9,12};//even
+    int tar2=3;
+
+    cout << binarySearch(arr2,tar2) << endl;
 
     return 0;
 }
