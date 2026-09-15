@@ -12,7 +12,7 @@ void bubbleSort(int arr[],int n){
             isSwap = true;
             }
         }
-        if(!isSwap){
+        if(!isSwap){// Array is already sorted
             return;
         }
     }
