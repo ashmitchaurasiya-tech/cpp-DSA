@@ -4,13 +4,13 @@ My journey of learning **Data Structures and Algorithms using C++**.
 
 ### 📌 Topics Covered
 
-* C++ Basics
-* Arrays
-* Pointers
-* Recursion
-* Searching
-* Binary Search
-* STL & Vectors
+* ⚙️ **C++ Basics**
+* 📦 **Arrays**
+* 👉 **Pointers**
+* 🔄 **Recursion**
+* 🔍 **Searching**
+* 🎯 **Binary Search**
+* 🧩 **STL & Vectors**
 
 ### 💻 Language
 
